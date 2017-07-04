@@ -3,7 +3,7 @@ package heiehei;
 public class huhuhu {
 	
 	public static void main(String[] args) {
-		System.out.println("scy");
+		System.out.println("Ëïºï×Ó");
 	}
 
 }
